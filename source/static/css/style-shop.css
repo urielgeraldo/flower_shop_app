@@ -107,7 +107,19 @@ body {
     color: #80C2AF;
 }
 
+#banner-shop-client {
+    width: auto;
+    height: 95%;
+    background-image: url(https://www.namesnack.com/images/namesnack-flower-business-names-5700x3716-20200915.jpeg?crop=40:21,smart&width=1200&dpr=2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 @media screen and (max-width: 991px) {
+    #banner-shop-client {
+        height: 30vh;
+    }
+
     .col-shop-main {
         height: 90vh;
     }
