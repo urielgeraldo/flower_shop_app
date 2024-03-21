@@ -45,13 +45,7 @@ body {
 }
 
 .inner-sketch {
-    height: 84vh;
-    
-    background-image: url(https://th.bing.com/th/id/R.591fc8268b8e692636e603f4bd10c61a?rik=rFsHMQ7iWAxFOg&pid=ImgRaw&r=0);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    
+    height: 74vh;
     border-radius: 15px;
     box-shadow: 5px 5px 15px 0px #5b5b5b;
 }
